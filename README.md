@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff073a,50:7000ff,100:00b4ff&height=220&section=header&text=K%20Λ%20I%20C%20H%20I%20%20%E2%96%88%20%20S%20Λ%20M%20Λ&fontSize=65&fontColor=ffffff&desc=///%20%5B%20SYSTEM%20OVERRIDE%20:%20ACCESS_GRANTED%20%5D%20///&descSize=16&descAlignY=55&descColor=00ff88" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=180&section=header&text=%3E_KAICHI_SAMA&fontSize=75&fontColor=00ff88&fontAlignY=45&desc=%5B%20SYSTEM_OVERRIDE%20::%20ACCESS_GRANTED%20%5D&descSize=18&descAlignY=75&descColor=ff073a" width="100%"/>
 
 <!-- GLITCH / CYBERPUNK TYPING EFFECT -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=24&duration=2000&pause=500&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%3E_INITIALIZING+KAWAII_STUDIO_PROTOCOL...;%3E_%5BWARNING%5D+SYSTEM+DEFENSES+COMPROMISED...;%3E_K%40!CH!_S%40M%40+%3A%3A+ACCESS+GRANTED;%3E_Architecting+tools+others+only+dream+of" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=24&duration=2000&pause=500&color=00B4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%3E_INITIALIZING+KAWAII_STUDIO_PROTOCOL...;%3E_%5BWARNING%5D+SYSTEM+DEFENSES+COMPROMISED...;%3E_KAICHI_SAMA+%3A%3A+ACCESS+GRANTED;%3E_Architecting+tools+others+only+dream+of" alt="Typing SVG" /></a>
 
 <br/>
 
