@@ -1,44 +1,50 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=180&section=header&text=%3E_KAICHI_SAMA&fontSize=75&fontColor=00ff88&fontAlignY=45&desc=%5B%20SYSTEM_OVERRIDE%20::%20ACCESS_GRANTED%20%5D&descSize=18&descAlignY=75&descColor=ff073a" width="100%"/>
+<!-- RGB WAVE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,15:00b4ff,30:7000ff,50:ff073a,70:7000ff,85:00b4ff,100:00ff88&height=120&section=header&animation=twinkling" width="100%"/>
 
-<!-- GLITCH / CYBERPUNK TYPING EFFECT -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=24&duration=2000&pause=500&color=00B4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%3E_INITIALIZING+KAWAII_STUDIO_PROTOCOL...;%3E_%5BWARNING%5D+SYSTEM+DEFENSES+COMPROMISED...;%3E_KAICHI_SAMA+%3A%3A+ACCESS+GRANTED;%3E_Architecting+tools+others+only+dream+of" alt="Typing SVG" /></a>
+<!-- LOGO / NAME -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&height=70&lines=KAICHI+SAMA" alt="KAICHI SAMA" />
 
 <br/>
 
-<!-- PROFILE VIEWS & SOCIALS -->
-<a href="https://github.com/KaichiSama"><img src="https://komarev.com/ghpvc/?username=kaichisama&style=for-the-badge&color=ff073a&label=PROFILE+SCANS" alt="Profile views"/></a>
-<a href="https://github.com/KaichiSama?tab=followers"><img src="https://img.shields.io/github/followers/kaichisama?style=for-the-badge&color=7000ff&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/></a>
-<a href="https://github.com/KaichiSama?tab=repositories"><img src="https://img.shields.io/github/stars/kaichisama?style=for-the-badge&color=00b4ff&labelColor=0d1117&label=TOTAL+STARS&affiliations=OWNER" alt="Stars"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=16&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&repeat=false&width=500&height=30&lines=KawaiiStudio+Manager+%E2%94%82+VRChat+Archive+Architect+%E2%94%82+Full-Stack+Dev" alt="Subtitle" />
+
+<br/><br/>
+
+<!-- ANIMATED TYPING - MEANINGFUL LINES -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1200&color=00B4FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=35&lines=Preserving+VRChat+history+%E2%80%94+one+asset+at+a+time;Building+open-source+tools+for+the+VR+community;Reverse+engineering+%26+digital+preservation+specialist;We+build+what+others+only+dream+of" alt="Typing SVG" /></a>
+
+<br/><br/>
+
+<!-- PROFILE BADGES -->
+<a href="https://github.com/KaichiSama"><img src="https://komarev.com/ghpvc/?username=kaichisama&style=for-the-badge&color=0d1117&label=VISITORS&labelColor=0d1117" alt="Profile views"/></a>
+<a href="https://github.com/KaichiSama?tab=followers"><img src="https://img.shields.io/github/followers/kaichisama?style=for-the-badge&color=0d1117&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/></a>
+<a href="https://github.com/KaichiSama?tab=repositories"><img src="https://img.shields.io/github/stars/kaichisama?style=for-the-badge&color=0d1117&labelColor=0d1117&label=STARS&affiliations=OWNER" alt="Stars"/></a>
+
+<br/>
+
+<!-- RGB ANIMATED DIVIDER -->
+<img src="https://raw.githubusercontent.com/AnderMendworkirez/AnderMendworkirez/main/assets/line-neon.gif" width="100%"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## 🔥 `> whoami`
 
-## � `[ SYS.INFO @ localhost ]`
-
-```python
-class Operator:
-    def __init__(self):
-        self.alias     = "K Λ I C H I █ S Λ M Λ"
-        self.location  = "🇨🇦 Node.ca"
-        self.role      = "KawaiiStudio Manager & Full-Stack Architect"
-        self.mission   = "Building state-of-the-art tools & open-source frameworks"
-        
-    def get_stack(self):
-        return {
-            "Languages" : ["C#", "Python", "JavaScript", "ShaderLab"],
-            "Engines"   : ["Unity Base", "VRChat SDK"],
-            "Interests" : ["Reverse Engineering", "VFX", "Digital Preservation"]
-        }
-
-    def ping(self):
-        return "CONNECT: discord.gg/xAeJrSAgqG"
+```js
+const kaichi = {
+    name       : "Kaichi-Sama",
+    location   : "🇨🇦 Canada",
+    role       : "KawaiiStudio Manager & Full-Stack Developer",
+    mission    : "Building state-of-the-art tools & open-source frameworks for VRChat",
+    languages  : ["C#", "Python", "JavaScript", "ShaderLab", "PowerShell"],
+    engines    : ["Unity 2019–2022", "VRChat SDK 2.0 & 3.0"],
+    interests  : ["Reverse Engineering", "VFX", "Digital Preservation", "Automation"],
+    contact    : "discord.gg/xAeJrSAgqG",
+};
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center"><img src="https://raw.githubusercontent.com/AnderMendworkirez/AnderMendworkirez/main/assets/line-neon.gif" width="100%"/></div>
 
 ## ⚡ PROJECTS // ACTIVE OPERATIONS
 
@@ -91,7 +97,7 @@ VRChat Swiss Tool — multi-purpose utility for VRChat power users. Friend list 
 </table>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center"><img src="https://raw.githubusercontent.com/AnderMendworkirez/AnderMendworkirez/main/assets/line-neon.gif" width="100%"/></div>
 
 ## 🧰 TECH STACK
 
@@ -117,7 +123,7 @@ VRChat Swiss Tool — multi-purpose utility for VRChat power users. Friend list 
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center"><img src="https://raw.githubusercontent.com/AnderMendworkirez/AnderMendworkirez/main/assets/line-neon.gif" width="100%"/></div>
 
 ## 📊 GITHUB ANALYTICS
 
@@ -138,7 +144,7 @@ VRChat Swiss Tool — multi-purpose utility for VRChat power users. Friend list 
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center"><img src="https://raw.githubusercontent.com/AnderMendworkirez/AnderMendworkirez/main/assets/line-neon.gif" width="100%"/></div>
 
 ## 🌐 CONNECT
 
@@ -172,4 +178,4 @@ VRChat Swiss Tool — multi-purpose utility for VRChat power users. Friend list 
 </div>
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff073a,50:7000ff,100:00b4ff&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,15:00b4ff,30:7000ff,50:ff073a,70:7000ff,85:00b4ff,100:00ff88&height=120&section=footer&animation=twinkling"/>
