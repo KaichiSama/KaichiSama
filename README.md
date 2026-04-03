@@ -1,26 +1,27 @@
 <div align="center">
 
 <!-- RGB WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,15:00b4ff,30:7000ff,50:ff073a,70:7000ff,85:00b4ff,100:00ff88&height=120&section=header&animation=twinkling" width="100%"/>
-
-<!-- LOGO / NAME -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&height=70&lines=KAICHI+SAMA" alt="KAICHI SAMA" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,15:00b4ff,30:7000ff,50:ff073a,70:7000ff,85:00b4ff,100:00ff88&height=180&section=header&animation=twinkling&text=KAICHI%20SAMA&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=KawaiiStudio%20Manager%20%20%E2%97%86%20%20VRChat%20Archive%20Architect%20%20%E2%97%86%20%20Full-Stack%20Developer&descSize=18&descAlignY=58&descColor=00ff88" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=16&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&repeat=false&width=500&height=30&lines=KawaiiStudio+Manager+%E2%94%82+VRChat+Archive+Architect+%E2%94%82+Full-Stack+Dev" alt="Subtitle" />
+<!-- ANIMATED TYPING -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF073A&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=45&lines=%F0%9F%94%A5+Preserving+VRChat+history+%E2%80%94+one+asset+at+a+time;%F0%9F%9B%A1%EF%B8%8F+Reverse+engineering+%26+digital+preservation;%F0%9F%92%8E+We+build+what+others+only+dream+of;%F0%9F%8C%90+Open-source+tools+for+the+VR+community" alt="Typing SVG" /></a>
 
-<br/><br/>
+<br/>
 
-<!-- ANIMATED TYPING - MEANINGFUL LINES -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1200&color=00B4FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=35&lines=Preserving+VRChat+history+%E2%80%94+one+asset+at+a+time;Building+open-source+tools+for+the+VR+community;Reverse+engineering+%26+digital+preservation+specialist;We+build+what+others+only+dream+of" alt="Typing SVG" /></a>
+<!-- ANIMATED SOCIAL LINKS ROW -->
+<a href="https://kawaiistudio.org"><img src="https://img.shields.io/badge/KAWAIISTUDIO.ORG-7000ff?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNy45M2MtMy45NS0uNDktNy03LjgtNy0xMS45MyAwLS42Mi4wOC0xLjIxLjIxLTEuNzlMOSAxMHY1YzAgLjU1LjQ1IDEgMSAxdjQuOTN6bTYuOS0yLjU0QTIuMDE2IDIuMDE2IDAgMDAxNiAxNmgtMXYtM2MwLS41NS0uNDUtMS0xLTFIOHYtMmgyYy41NSAwIDEtLjQ1IDEtMVY3aDJjMS4xIDAgMi0uOSAyLTJ2LS40MWMyLjkzIDEuMTkgNSA0LjA2IDUgNy40MSAwIDIuMDgtLjggMy45Ny0yLjEgNS4zOXoiLz48L3N2Zz4=&logoColor=white"/></a>
+<a href="https://vrchatarchive.org"><img src="https://img.shields.io/badge/VRCHAT_ARCHIVE-ff073a?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMCA2aC04bC0yLTJINGMtMS4xIDAtMS45OS45LTEuOTkgMkwyIDIwYzAgMS4xLjkgMiAyIDJoMTZjMS4xIDAgMi0uOSAyLTJWOGMwLTEuMS0uOS0yLTItMnptMCAxMkg0VjhjMCAwIC4wMSAwIC4wMSAwaDE1Ljk4djEweiIvPjwvc3ZnPg==&logoColor=white"/></a>
+<a href="https://discord.gg/xAeJrSAgqG"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://ko-fi.com/s/e46629aa32"><img src="https://img.shields.io/badge/SUPPORT_US-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
 
-<br/><br/>
+<br/>
 
-<!-- PROFILE BADGES -->
-<a href="https://github.com/KaichiSama"><img src="https://komarev.com/ghpvc/?username=kaichisama&style=for-the-badge&color=0d1117&label=VISITORS&labelColor=0d1117" alt="Profile views"/></a>
-<a href="https://github.com/KaichiSama?tab=followers"><img src="https://img.shields.io/github/followers/kaichisama?style=for-the-badge&color=0d1117&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/></a>
-<a href="https://github.com/KaichiSama?tab=repositories"><img src="https://img.shields.io/github/stars/kaichisama?style=for-the-badge&color=0d1117&labelColor=0d1117&label=STARS&affiliations=OWNER" alt="Stars"/></a>
+<!-- PROFILE COUNTERS -->
+<a href="https://github.com/KaichiSama"><img src="https://komarev.com/ghpvc/?username=kaichisama&style=for-the-badge&color=ff073a&label=PROFILE+VIEWS" alt="Profile views"/></a>
+<a href="https://github.com/KaichiSama?tab=followers"><img src="https://img.shields.io/github/followers/kaichisama?style=for-the-badge&color=7000ff&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/></a>
+<a href="https://github.com/KaichiSama?tab=repositories"><img src="https://img.shields.io/github/stars/kaichisama?style=for-the-badge&color=00b4ff&labelColor=0d1117&label=STARS&affiliations=OWNER" alt="Stars"/></a>
 
 <br/>
 
