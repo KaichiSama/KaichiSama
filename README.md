@@ -130,13 +130,13 @@ VRChat Swiss Tool — multi-purpose utility for VRChat power users. Friend list 
 
 <div align="center">
 <a href="https://github.com/KaichiSama">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaichisama&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff073a&icon_color=7000ff&text_color=94a3b8&border_color=1a1a2e&hide_border=false&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaichisama&layout=compact&theme=radical&bg_color=0d1117&title_color=ff073a&text_color=94a3b8&border_color=1a1a2e&hide_border=false&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats-kaichisama.vercel.app/api?username=kaichisama&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff073a&icon_color=7000ff&text_color=94a3b8&border_color=1a1a2e&hide_border=false&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-kaichisama.vercel.app/api/top-langs/?username=kaichisama&layout=compact&theme=radical&bg_color=0d1117&title_color=ff073a&text_color=94a3b8&border_color=1a1a2e&hide_border=false&langs_count=8"/>
 </a>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaichisama&theme=radical&background=0d1117&ring=ff073a&fire=ff073a&currStreakLabel=ff073a&sideLabels=94a3b8&sideNums=00b4ff&currStreakNum=00b4ff&dates=94a3b8&border=1a1a2e" />
+<img src="https://streak-stats.demolab.com/?user=kaichisama&theme=radical&background=0d1117&ring=ff073a&fire=ff073a&currStreakLabel=ff073a&sideLabels=94a3b8&sideNums=00b4ff&currStreakNum=00b4ff&dates=94a3b8&border=1a1a2e" />
 
 <br/>
 
