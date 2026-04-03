@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff073a,50:7000ff,100:00b4ff&height=200&section=header&text=KAICHI%20SAMA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=⚡%20KawaiiStudio%20Manager%20%7C%20VRChat%20Archive%20Architect%20⚡&descSize=16&descAlignY=55&descColor=94a3b8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff073a,50:7000ff,100:00b4ff&height=220&section=header&text=K%20Λ%20I%20C%20H%20I%20%20%E2%96%88%20%20S%20Λ%20M%20Λ&fontSize=65&fontColor=ffffff&desc=///%20%5B%20SYSTEM%20OVERRIDE%20:%20ACCESS_GRANTED%20%5D%20///&descSize=16&descAlignY=55&descColor=00ff88" width="100%"/>
 
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=FF073A&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%3E+Architecting+tools+others+only+dream+of;%3E+Quality+is+our+definitive+standard;%3E+Professional+Copy-Paster+Engineer+%F0%9F%87%B7%F0%9F%87%BA%F0%9F%87%A8%F0%9F%87%A6" alt="Typing SVG" /></a>
+<!-- GLITCH / CYBERPUNK TYPING EFFECT -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=24&duration=2000&pause=500&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%3E_INITIALIZING+KAWAII_STUDIO_PROTOCOL...;%3E_%5BWARNING%5D+SYSTEM+DEFENSES+COMPROMISED...;%3E_K%40!CH!_S%40M%40+%3A%3A+ACCESS+GRANTED;%3E_Architecting+tools+others+only+dream+of" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -17,19 +17,25 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🔥 `> whoami`
+## � `[ SYS.INFO @ localhost ]`
 
-```js
-const kaichi = {
-    name       : "Kaichi-Sama",
-    location   : "🇨🇦 Canada",
-    role       : "KawaiiStudio Manager & Full-Stack Developer",
-    mission    : "Building state-of-the-art tools & open-source frameworks for VRChat",
-    languages  : ["C#", "Python", "JavaScript", "ShaderLab", "PowerShell"],
-    engines    : ["Unity 2019–2022", "VRChat SDK 2.0 & 3.0"],
-    interests  : ["Reverse Engineering", "VFX", "Digital Preservation", "Automation"],
-    contact    : "discord.gg/xAeJrSAgqG",
-};
+```python
+class Operator:
+    def __init__(self):
+        self.alias     = "K Λ I C H I █ S Λ M Λ"
+        self.location  = "🇨🇦 Node.ca"
+        self.role      = "KawaiiStudio Manager & Full-Stack Architect"
+        self.mission   = "Building state-of-the-art tools & open-source frameworks"
+        
+    def get_stack(self):
+        return {
+            "Languages" : ["C#", "Python", "JavaScript", "ShaderLab"],
+            "Engines"   : ["Unity Base", "VRChat SDK"],
+            "Interests" : ["Reverse Engineering", "VFX", "Digital Preservation"]
+        }
+
+    def ping(self):
+        return "CONNECT: discord.gg/xAeJrSAgqG"
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
