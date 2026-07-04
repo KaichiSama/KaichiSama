@@ -1,200 +1,202 @@
+<!-- ══════════════════════════════════ HEADER ══════════════════════════════════ -->
 <div align="center">
 
-<!-- RGB WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,15:00b4ff,30:7000ff,50:ff073a,70:7000ff,85:00b4ff,100:00ff88&height=180&section=header&animation=twinkling&text=KAICHI%20SAMA&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=KawaiiStudio%20Manager%20%20%E2%97%86%20%20VRChat%20Archive%20Architect%20%20%E2%97%86%20%20Full-Stack%20Developer&descSize=18&descAlignY=58&descColor=00ff88" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a84ff,40:7c3aed,70:00d9ff,100:0a84ff&height=210&section=header&text=KAICHI%20SAMA&fontSize=74&fontColor=ffffff&fontAlignY=34&desc=Full-Stack%20Engineer%20%C2%B7%20Systems%20Architect%20%C2%B7%20Digital%20Preservationist&descSize=17&descAlignY=56&descColor=cfe8ff&animation=fadeIn" />
 
-<br/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=900&color=00D9FF&center=true&vCenter=true&width=780&height=42&lines=Architecting+large-scale+preservation+systems;Reverse+engineering+%26+VRChat+platform+tooling;Full-stack+%C2%B7+self-hosted+%C2%B7+production-grade;I+build+what+others+only+dream+of." alt="typing" />
+</a>
 
-<!-- ANIMATED TYPING -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF073A&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=45&lines=%F0%9F%94%A5+Preserving+VRChat+history+%E2%80%94+one+asset+at+a+time;%F0%9F%9B%A1%EF%B8%8F+Reverse+engineering+%26+digital+preservation;%F0%9F%92%8E+We+build+what+others+only+dream+of;%F0%9F%8C%90+Open-source+tools+for+the+VR+community" alt="Typing SVG" /></a>
+<br/><br/>
 
-<br/>
+<img src="https://img.shields.io/badge/Based_in-%F0%9F%87%A8%F0%9F%87%A6_Canada-0a84ff?style=flat-square&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Role-Full--Stack_Engineer-7c3aed?style=flat-square&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-Systems_%26_Automation-00d9ff?style=flat-square&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Status-%E2%97%8F_Building-2ecc71?style=flat-square&labelColor=0d1117" />
 
-<!-- ANIMATED SOCIAL LINKS ROW -->
-<a href="https://kawaiistudio.org"><img src="https://img.shields.io/badge/KAWAIISTUDIO.ORG-7000ff?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNy45M2MtMy45NS0uNDktNy03LjgtNy0xMS45MyAwLS42Mi4wOC0xLjIxLjIxLTEuNzlMOSAxMHY1YzAgLjU1LjQ1IDEgMSAxdjQuOTN6bTYuOS0yLjU0QTIuMDE2IDIuMDE2IDAgMDAxNiAxNmgtMXYtM2MwLS41NS0uNDUtMS0xLTFIOHYtMmgyYy41NSAwIDEtLjQ1IDEtMVY3aDJjMS4xIDAgMi0uOSAyLTJ2LS40MWMyLjkzIDEuMTkgNSA0LjA2IDUgNy40MSAwIDIuMDgtLjggMy45Ny0yLjEgNS4zOXoiLz48L3N2Zz4=&logoColor=white"/></a>
-<a href="https://vrchatarchive.org"><img src="https://img.shields.io/badge/VRCHAT_ARCHIVE-ff073a?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMCA2aC04bC0yLTJINGMtMS4xIDAtMS45OS45LTEuOTkgMkwyIDIwYzAgMS4xLjkgMiAyIDJoMTZjMS4xIDAgMi0uOSAyLTJWOGMwLTEuMS0uOS0yLTItMnptMCAxMkg0VjhjMCAwIC4wMSAwIC4wMSAwaDE1Ljk4djEweiIvPjwvc3ZnPg==&logoColor=white"/></a>
-<a href="https://discord.gg/xAeJrSAgqG"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="https://ko-fi.com/s/e46629aa32"><img src="https://img.shields.io/badge/SUPPORT_US-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+<br/><br/>
 
-<br/>
+<a href="https://github.com/KaichiSama"><img src="https://komarev.com/ghpvc/?username=kaichisama&style=flat-square&color=0a84ff&label=PROFILE+VIEWS" /></a>
+&nbsp;
+<a href="https://github.com/KaichiSama?tab=followers"><img src="https://img.shields.io/github/followers/kaichisama?style=flat-square&color=7c3aed&labelColor=0d1117&label=FOLLOWERS" /></a>
+&nbsp;
+<a href="https://github.com/KaichiSama?tab=repositories"><img src="https://img.shields.io/github/stars/kaichisama?style=flat-square&color=00d9ff&labelColor=0d1117&label=STARS&affiliations=OWNER" /></a>
 
-<!-- PROFILE COUNTERS -->
-<a href="https://github.com/KaichiSama"><img src="https://komarev.com/ghpvc/?username=kaichisama&style=for-the-badge&color=ff073a&label=PROFILE+VIEWS" alt="Profile views"/></a>
-<a href="https://github.com/KaichiSama?tab=followers"><img src="https://img.shields.io/github/followers/kaichisama?style=for-the-badge&color=7000ff&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/></a>
-<a href="https://github.com/KaichiSama?tab=repositories"><img src="https://img.shields.io/github/stars/kaichisama?style=for-the-badge&color=00b4ff&labelColor=0d1117&label=STARS&affiliations=OWNER" alt="Stars"/></a>
-
-<br/>
-
-<!-- RGB ANIMATED DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,25:00b4ff,50:7000ff,75:ff073a,100:00ff88&height=3" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a84ff,50:7c3aed,100:00d9ff&height=2" />
 
 </div>
 
-## 🔥 `> whoami`
+<!-- ══════════════════════════════════ ABOUT ══════════════════════════════════ -->
+## &nbsp;◈&nbsp;&nbsp;About
 
-```js
-const kaichi = {
-    name       : "Kaichi-Sama",
-    location   : "🇨🇦 Canada",
-    role       : "KawaiiStudio Manager & Full-Stack Developer",
-    mission    : "Building state-of-the-art tools & open-source frameworks for VRChat",
-    languages  : ["C#", "Python", "JavaScript", "ShaderLab", "PowerShell"],
-    engines    : ["Unity 2019–2022", "VRChat SDK 2.0 & 3.0"],
-    interests  : ["Reverse Engineering", "VFX", "Digital Preservation", "Automation"],
-    contact    : "discord.gg/xAeJrSAgqG",
+```ts
+const kaichi: Engineer = {
+  name:        "Kaichi Sama",
+  role:        "Full-Stack Engineer & Systems Architect",
+  company:     "Founder — Kawaii Studio",
+  focus:       ["Distributed systems", "Reverse engineering", "Digital preservation", "Automation"],
+  stack:       ["TypeScript", "Python", "C#", "Rust-curious"],
+  runs:        "A full production stack — solo. Caddy · Python services · Discord bots · Unity streamer · Cloudflare",
+  philosophy:  "Ship fast, engineer for scale, preserve forever.",
 };
 ```
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,25:00b4ff,50:7000ff,75:ff073a,100:00ff88&height=3" width="100%"/></div>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🛰️ `> status --now`
+**What I do**
+- 🏗️ &nbsp;Design & operate **production-grade full-stack platforms** end-to-end
+- 🧩 &nbsp;Reverse engineer complex systems & build **automation pipelines**
+- 🗄️ &nbsp;Large-scale **data preservation & archival** infrastructure
+- 🤖 &nbsp;AI-assisted tooling, bots & real-time services
+
+</td>
+<td width="50%" valign="top">
+
+**How I work**
+- ⚡ &nbsp;**Solo operator** — from architecture to deploy to ops
+- 🛰️ &nbsp;**Self-hosted** everything · zero-downtime deploys
+- 🔒 &nbsp;Security & reliability first · audited & atomic
+- 📈 &nbsp;Obsessed with **scale, SEO & performance**
+
+</td>
+</tr>
+</table>
+
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a84ff,50:7c3aed,100:00d9ff&height=2" /></div>
+
+<!-- ══════════════════════════════════ STACK ══════════════════════════════════ -->
+## &nbsp;◈&nbsp;&nbsp;Tech Arsenal
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/%F0%9F%9F%A2_STATUS-ONLINE_%26_BUILDING-00ff88?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/CURRENT_FOCUS-VRChat_Archive-ff073a?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/OPEN_TO-Collabs_%26_Ideas-7000ff?style=for-the-badge&labelColor=0d1117"/>
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=cs,python,js,ts,cpp,lua,bash&theme=dark" />
+
+**Backend · Frontend · Data**
+
+<img src="https://skillicons.dev/icons?i=dotnet,fastapi,nodejs,flask,react,html,css,tailwind,sqlite,postgres,redis&theme=dark" />
+
+**Infra · DevOps · Tools**
+
+<img src="https://skillicons.dev/icons?i=cloudflare,nginx,linux,docker,git,github,vscode,powershell,vercel&theme=dark" />
+
+**Creative · Engines**
+
+<img src="https://skillicons.dev/icons?i=unity,blender,ps,ae&theme=dark" />
 
 </div>
 
-- 🔭 &nbsp;Currently building **[VRChat Archive](https://vrchatarchive.org)** — asset & world preservation, automated archival pipelines, Discord-integrated tooling
-- 🌱 &nbsp;Going deep on **reverse engineering**, **VRChat API automation** & **digital preservation**
-- ⚙️ &nbsp;Running a full **self-hosted stack** — Caddy · Python · Discord bots · Unity streamer · Cloudflare
-- 💬 &nbsp;Ask me about **VRChat tooling, AssetBundles, or preservation at scale**
-- ⚡ &nbsp;Fun fact: *We build what others only dream of.*
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a84ff,50:7c3aed,100:00d9ff&height=2" /></div>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,25:00b4ff,50:7000ff,75:ff073a,100:00ff88&height=3" width="100%"/></div>
-
-## ⚡ PROJECTS // ACTIVE OPERATIONS
+<!-- ══════════════════════════════════ PROJECTS ══════════════════════════════════ -->
+## &nbsp;◈&nbsp;&nbsp;Featured Work
 
 <div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 [VRChat Archive](https://vrchatarchive.org)
-<a href="https://vrchatarchive.org"><img src="https://img.shields.io/badge/VRCHAT_ARCHIVE-LIVE-ff073a?style=for-the-badge&logoColor=white&labelColor=0d1117" /></a>
+### 🌐&nbsp; [VRChat Archive](https://vrchatarchive.org)
+<a href="https://vrchatarchive.org"><img src="https://img.shields.io/badge/LIVE-vrchatarchive.org-2ecc71?style=flat-square&labelColor=0d1117" /></a>
 
-The largest VRChat asset preservation project. Full-stack platform with real-time search, asset management, Discord integration, and automated archival pipelines.
+The largest VRChat asset preservation platform. Real-time search over thousands of assets, automated archival pipelines, Discord-integrated tooling, and a fully self-hosted backend.
 
-`Python` `FastAPI` `JavaScript` `Caddy` `SQLite`
+`Python` &nbsp;`FastAPI` &nbsp;`JavaScript` &nbsp;`Caddy` &nbsp;`SQLite`
 
 </td>
 <td width="50%" valign="top">
 
-### 🎀 [Kawaii Studio](https://kawaiistudio.org)
-<a href="https://kawaiistudio.org"><img src="https://img.shields.io/badge/KAWAII_STUDIO-ONLINE-7000ff?style=for-the-badge&logoColor=white&labelColor=0d1117" /></a>
+### 🎀&nbsp; [Kawaii Studio](https://kawaiistudio.org)
+<a href="https://kawaiistudio.org"><img src="https://img.shields.io/badge/LIVE-kawaiistudio.org-7c3aed?style=flat-square&labelColor=0d1117" /></a>
 
-Elite developers & creative engineers pushing the limits of the VRChat digital frontier. Bespoke VFX, animations, tools, and open-source frameworks.
+Creative engineering studio pushing the VRChat frontier — bespoke VFX, shaders, Unity tooling and open-source frameworks for creators.
 
-`Unity` `C#` `ShaderLab` `VRChat SDK`
+`Unity` &nbsp;`C#` &nbsp;`ShaderLab` &nbsp;`VRChat SDK`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛠️ [KS Unity Tools](https://github.com/kawaiistudio/KSUnityTools)
-<a href="https://github.com/kawaiistudio/KSUnityTools"><img src="https://img.shields.io/badge/KSUNITY_TOOLS-GITHUB-00b4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
+### 🛠️&nbsp; [KS Unity Tools](https://github.com/kawaiistudio/KSUnityTools)
+<a href="https://github.com/kawaiistudio/KSUnityTools"><img src="https://img.shields.io/badge/OPEN_SOURCE-GitHub-00d9ff?style=flat-square&logo=github&labelColor=0d1117" /></a>
 
-Official Kawaii Studio Unity tooling suite. Editor extensions, automation scripts, and utilities for VRChat avatar & world creation workflows.
+Editor extensions, automation scripts & utilities that streamline VRChat avatar and world creation workflows.
 
-`C#` `Unity Editor` `VPM`
+`C#` &nbsp;`Unity Editor` &nbsp;`VPM`
 
 </td>
 <td width="50%" valign="top">
 
-### 🔍 [VRCST](https://github.com/kawaiistudio/VRCST)
-<a href="https://github.com/kawaiistudio/VRCST"><img src="https://img.shields.io/badge/VRCST-GITHUB-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
+### 🔍&nbsp; [VRCST](https://github.com/kawaiistudio/VRCST)
+<a href="https://github.com/kawaiistudio/VRCST"><img src="https://img.shields.io/badge/OPEN_SOURCE-GitHub-0a84ff?style=flat-square&logo=github&labelColor=0d1117" /></a>
 
-VRChat Swiss Tool — multi-purpose utility for VRChat power users. Friend list management, asset ripping, group tools, blacklist manager, and more.
+VRChat Swiss Tool — a power-user suite: friend management, group tools, blacklist manager and deep VRChat API automation.
 
-`Python` `VRChat API` `Automation`
+`Python` &nbsp;`VRChat API` &nbsp;`Automation`
 
 </td>
 </tr>
 </table>
 </div>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,25:00b4ff,50:7000ff,75:ff073a,100:00ff88&height=3" width="100%"/></div>
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a84ff,50:7c3aed,100:00d9ff&height=2" /></div>
 
-## 🧰 TECH STACK
+<!-- ══════════════════════════════════ METRICS ══════════════════════════════════ -->
+## &nbsp;◈&nbsp;&nbsp;GitHub Metrics
 
 <div align="center">
 
-<!-- Languages -->
-<img src="https://img.shields.io/badge/C%23-7000ff?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-ff073a?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-00b4ff?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/PowerShell-0d1117?style=for-the-badge&logo=powershell&logoColor=00b4ff"/>
-<img src="https://img.shields.io/badge/ShaderLab-7000ff?style=for-the-badge&logo=unity&logoColor=white"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kaichisama&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=9fb3c8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaichisama&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00d9ff&text_color=9fb3c8" />
 
 <br/>
 
-<!-- Frameworks & Tools -->
-<img src="https://img.shields.io/badge/Unity-0d1117?style=for-the-badge&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Caddy-0d1117?style=for-the-badge&logo=caddy&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Discord_Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-<img src="https://img.shields.io/badge/VRChat_SDK-00b4ff?style=for-the-badge&logoColor=white"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=kaichisama&hide_border=true&background=0d1117&ring=7c3aed&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=9fb3c8&sideNums=0a84ff&currStreakNum=0a84ff&dates=9fb3c8" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kaichisama&bg_color=0d1117&color=00d9ff&line=7c3aed&point=0a84ff&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Activity" />
 
 </div>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,25:00b4ff,50:7000ff,75:ff073a,100:00ff88&height=3" width="100%"/></div>
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a84ff,50:7c3aed,100:00d9ff&height=2" /></div>
 
-## 📊 GITHUB ANALYTICS
-
-<div align="center">
-<a href="https://github.com/KaichiSama">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaichisama&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff073a&icon_color=7000ff&text_color=94a3b8&border_color=1a1a2e&hide_border=false&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaichisama&layout=compact&theme=radical&bg_color=0d1117&title_color=ff073a&text_color=94a3b8&border_color=1a1a2e&hide_border=false&langs_count=8"/>
-</a>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=kaichisama&theme=radical&background=0d1117&ring=ff073a&fire=ff073a&currStreakLabel=ff073a&sideLabels=94a3b8&sideNums=00b4ff&currStreakNum=00b4ff&dates=94a3b8&border=1a1a2e" />
-
-<br/>
-
-<!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaichisama&bg_color=0d1117&color=ff073a&line=7000ff&point=00b4ff&area=true&area_color=7000ff&hide_border=false&custom_title=CONTRIBUTION%20ACTIVITY%20FEED" width="95%"/>
-
-</div>
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,25:00b4ff,50:7000ff,75:ff073a,100:00ff88&height=3" width="100%"/></div>
-
-## 🌐 CONNECT
+<!-- ══════════════════════════════════ CONNECT ══════════════════════════════════ -->
+## &nbsp;◈&nbsp;&nbsp;Connect
 
 <div align="center">
 
-<a href="https://discord.gg/xAeJrSAgqG"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="https://x.com/KaichiSamaKS"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://www.instagram.com/kaichisamaks"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://t.me/kawaiistudio"><img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://ko-fi.com/s/e46629aa32"><img src="https://img.shields.io/badge/KO--FI-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
-<a href="https://kawaiistudio.org"><img src="https://img.shields.io/badge/KAWAIISTUDIO.ORG-7000ff?style=for-the-badge&logoColor=white"/></a>
-<a href="https://vrchatarchive.org"><img src="https://img.shields.io/badge/VRCHATARCHIVE.ORG-ff073a?style=for-the-badge&logoColor=white"/></a>
+<a href="https://kawaiistudio.org"><img src="https://img.shields.io/badge/Portfolio-kawaiistudio.org-7c3aed?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="https://vrchatarchive.org"><img src="https://img.shields.io/badge/Project-vrchatarchive.org-2ecc71?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="https://discord.gg/xAeJrSAgqG"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://x.com/KaichiSamaKS"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://www.instagram.com/kaichisamaks"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://t.me/kawaiistudio"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://ko-fi.com/s/e46629aa32"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
 
 </div>
 
 <br/>
 
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We+build+what+others+only+dream+of.&author=Kawaii+Studio" />
-</div>
-
-<br/>
-
-<!-- SNAKE ANIMATION -->
+<!-- SNAKE -->
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 </div>
 
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,15:00b4ff,30:7000ff,50:ff073a,70:7000ff,85:00b4ff,100:00ff88&height=120&section=footer&animation=twinkling"/>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,40:7c3aed,70:0a84ff,100:00d9ff&height=120&section=footer&text=We%20build%20what%20others%20only%20dream%20of.&fontSize=18&fontColor=ffffff&fontAlignY=72&descAlignY=50" />
+
+<sub>⭐ <em>Thanks for visiting — let's build something insane.</em></sub>
+
+</div>
