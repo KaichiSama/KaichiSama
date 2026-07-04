@@ -143,6 +143,18 @@ VRChat Swiss Tool — a power-user suite: friend management, group tools, blackl
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🎬&nbsp; [VRChat ERP](https://vrchaterp.org) &nbsp;<img src="https://img.shields.io/badge/18%2B-NSFW-ff3860?style=flat-square&labelColor=0d1117" />
+<a href="https://vrchaterp.org"><img src="https://img.shields.io/badge/LIVE-vrchaterp.org-2ecc71?style=flat-square&labelColor=0d1117" /></a>
+
+High-traffic adult video platform for the VRChat community. Engineered for **SEO at scale** — per-video `VideoObject` schema, video sitemaps, fast streaming and a fully self-hosted backend.
+
+`Python` &nbsp;`SEO` &nbsp;`Video Streaming` &nbsp;`Caddy`
+
+</td>
+</tr>
 </table>
 </div>
 
