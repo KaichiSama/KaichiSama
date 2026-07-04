@@ -47,6 +47,24 @@ const kaichi = {
 
 <div align="center"><img src="https://raw.githubusercontent.com/AnderMendworkirez/AnderMendworkirez/main/assets/line-neon.gif" width="100%"/></div>
 
+## 🛰️ `> status --now`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2_STATUS-ONLINE_%26_BUILDING-00ff88?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/CURRENT_FOCUS-VRChat_Archive-ff073a?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/OPEN_TO-Collabs_%26_Ideas-7000ff?style=for-the-badge&labelColor=0d1117"/>
+
+</div>
+
+- 🔭 &nbsp;Currently building **[VRChat Archive](https://vrchatarchive.org)** — asset & world preservation, automated archival pipelines, Discord-integrated tooling
+- 🌱 &nbsp;Going deep on **reverse engineering**, **VRChat API automation** & **digital preservation**
+- ⚙️ &nbsp;Running a full **self-hosted stack** — Caddy · Python · Discord bots · Unity streamer · Cloudflare
+- 💬 &nbsp;Ask me about **VRChat tooling, AssetBundles, or preservation at scale**
+- ⚡ &nbsp;Fun fact: *We build what others only dream of.*
+
+<div align="center"><img src="https://raw.githubusercontent.com/AnderMendworkirez/AnderMendworkirez/main/assets/line-neon.gif" width="100%"/></div>
+
 ## ⚡ PROJECTS // ACTIVE OPERATIONS
 
 <div align="center">
@@ -142,6 +160,11 @@ VRChat Swiss Tool — multi-purpose utility for VRChat power users. Friend list 
 
 <!-- ACTIVITY GRAPH -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaichisama&bg_color=0d1117&color=ff073a&line=7000ff&point=00b4ff&area=true&area_color=7000ff&hide_border=false&custom_title=CONTRIBUTION%20ACTIVITY%20FEED" width="95%"/>
+
+<br/>
+
+<!-- TROPHIES -->
+<img src="https://github-profile-trophy.vercel.app/?username=kaichisama&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="95%"/>
 
 </div>
 
