@@ -153,12 +153,17 @@ VRChat Swiss Tool — a power-user suite: friend management, group tools, blackl
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kaichisama&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=9fb3c8" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaichisama&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00d9ff&text_color=9fb3c8" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaichisama&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaichisama&theme=github_dark" />
 
 <br/>
 
-<img height="165" src="https://streak-stats.demolab.com/?user=kaichisama&hide_border=true&background=0d1117&ring=7c3aed&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=9fb3c8&sideNums=0a84ff&currStreakNum=0a84ff&dates=9fb3c8" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaichisama&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaichisama&theme=github_dark&utcOffset=-5" />
+
+<br/><br/>
+
+<img width="49%" src="https://streak-stats.demolab.com/?user=kaichisama&hide_border=true&background=0d1117&ring=7c3aed&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=9fb3c8&sideNums=0a84ff&currStreakNum=0a84ff&dates=9fb3c8" />
 
 <br/><br/>
 
