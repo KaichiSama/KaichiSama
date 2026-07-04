@@ -179,7 +179,7 @@ VRChat Swiss Tool — a power-user suite: friend management, group tools, blackl
 <a href="https://x.com/KaichiSamaKS"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://www.instagram.com/kaichisamaks"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://t.me/kawaiistudio"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://ko-fi.com/s/e46629aa32"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+<a href="https://ko-fi.com/kaichisama"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
 
 </div>
 
