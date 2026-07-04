@@ -26,7 +26,7 @@
 <br/>
 
 <!-- RGB ANIMATED DIVIDER -->
-<img src="https://raw.githubusercontent.com/AnderMendworkirez/AnderMendworkirez/main/assets/line-neon.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,25:00b4ff,50:7000ff,75:ff073a,100:00ff88&height=3" width="100%"/>
 
 </div>
 
@@ -45,7 +45,7 @@ const kaichi = {
 };
 ```
 
-<div align="center"><img src="https://raw.githubusercontent.com/AnderMendworkirez/AnderMendworkirez/main/assets/line-neon.gif" width="100%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,25:00b4ff,50:7000ff,75:ff073a,100:00ff88&height=3" width="100%"/></div>
 
 ## 🛰️ `> status --now`
 
@@ -63,7 +63,7 @@ const kaichi = {
 - 💬 &nbsp;Ask me about **VRChat tooling, AssetBundles, or preservation at scale**
 - ⚡ &nbsp;Fun fact: *We build what others only dream of.*
 
-<div align="center"><img src="https://raw.githubusercontent.com/AnderMendworkirez/AnderMendworkirez/main/assets/line-neon.gif" width="100%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,25:00b4ff,50:7000ff,75:ff073a,100:00ff88&height=3" width="100%"/></div>
 
 ## ⚡ PROJECTS // ACTIVE OPERATIONS
 
@@ -116,7 +116,7 @@ VRChat Swiss Tool — multi-purpose utility for VRChat power users. Friend list 
 </table>
 </div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/AnderMendworkirez/AnderMendworkirez/main/assets/line-neon.gif" width="100%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,25:00b4ff,50:7000ff,75:ff073a,100:00ff88&height=3" width="100%"/></div>
 
 ## 🧰 TECH STACK
 
@@ -142,14 +142,14 @@ VRChat Swiss Tool — multi-purpose utility for VRChat power users. Friend list 
 
 </div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/AnderMendworkirez/AnderMendworkirez/main/assets/line-neon.gif" width="100%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,25:00b4ff,50:7000ff,75:ff073a,100:00ff88&height=3" width="100%"/></div>
 
 ## 📊 GITHUB ANALYTICS
 
 <div align="center">
 <a href="https://github.com/KaichiSama">
-  <img height="180em" src="https://github-readme-stats-kaichisama.vercel.app/api?username=kaichisama&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff073a&icon_color=7000ff&text_color=94a3b8&border_color=1a1a2e&hide_border=false&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats-kaichisama.vercel.app/api/top-langs/?username=kaichisama&layout=compact&theme=radical&bg_color=0d1117&title_color=ff073a&text_color=94a3b8&border_color=1a1a2e&hide_border=false&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaichisama&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff073a&icon_color=7000ff&text_color=94a3b8&border_color=1a1a2e&hide_border=false&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaichisama&layout=compact&theme=radical&bg_color=0d1117&title_color=ff073a&text_color=94a3b8&border_color=1a1a2e&hide_border=false&langs_count=8"/>
 </a>
 
 <br/>
@@ -161,14 +161,9 @@ VRChat Swiss Tool — multi-purpose utility for VRChat power users. Friend list 
 <!-- ACTIVITY GRAPH -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaichisama&bg_color=0d1117&color=ff073a&line=7000ff&point=00b4ff&area=true&area_color=7000ff&hide_border=false&custom_title=CONTRIBUTION%20ACTIVITY%20FEED" width="95%"/>
 
-<br/>
-
-<!-- TROPHIES -->
-<img src="https://github-profile-trophy.vercel.app/?username=kaichisama&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="95%"/>
-
 </div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/AnderMendworkirez/AnderMendworkirez/main/assets/line-neon.gif" width="100%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,25:00b4ff,50:7000ff,75:ff073a,100:00ff88&height=3" width="100%"/></div>
 
 ## 🌐 CONNECT
 
